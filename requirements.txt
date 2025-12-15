@@ -1,0 +1,11 @@
+# Python >= 3.10 recommended
+
+numpy>=1.23
+opencv-python>=4.7
+mediapipe>=0.10
+matplotlib>=3.6
+moviepy>=1.0.3
+imageio-ffmpeg>=0.4.9
+
+# Optional (only needed for: --instruction-mode deepseek)
+# openai>=1.0.0
