@@ -1,16 +1,8 @@
-# Uppsala PhD Assignment
-
-AI-Based Activity Recognition Prototype implemented for the PhD admission process (UFV-PA 2025/2533) at Uppsala University.
-
 This repository contains a Python prototype that reads a short first-person video of a simple manual assembly task (assembling the handle of a glass lid), then it detects an ordered sequence of work steps and exports timestamps, logs, plots, and optional step-by-step instructions.
 
 ## Context and goal
 
-This project is prepared as a PhD admission assignment for **PhD Student in Industrial Engineering and Management**, with a focus on **Multimodal AI and XR for Manufacturing Skill Transfer**, at **Uppsala University** (UFV-PA 2025/2533).
-
-The goal is to demonstrate a clear technical approach to multimodal activity recognition in a realistic setting, where signals are noisy and partial, and where an explainable design is useful for later deployment in instruction generation and XR scenarios.
-
-Repository URL: `https://github.com/RumiaTouhou/UppsalaPhDAssignment/tree/main`
+The goal is to demonstrate a clear generalizable technical approach to multimodal activity recognition in a realistic setting, where signals are noisy and partial, and where an explainable design is useful for later deployment in instruction generation and XR scenarios.
 
 ## What the system does
 
